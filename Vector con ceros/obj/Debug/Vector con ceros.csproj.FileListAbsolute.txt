@@ -1,0 +1,7 @@
+C:\Users\Claudio\Documents\C# Projects\Vector con ceros\Vector con ceros\bin\Debug\Vector con ceros.exe.config
+C:\Users\Claudio\Documents\C# Projects\Vector con ceros\Vector con ceros\bin\Debug\Vector con ceros.exe
+C:\Users\Claudio\Documents\C# Projects\Vector con ceros\Vector con ceros\bin\Debug\Vector con ceros.pdb
+C:\Users\Claudio\Documents\C# Projects\Vector con ceros\Vector con ceros\obj\Debug\Vector con ceros.csprojAssemblyReference.cache
+C:\Users\Claudio\Documents\C# Projects\Vector con ceros\Vector con ceros\obj\Debug\Vector con ceros.csproj.CoreCompileInputs.cache
+C:\Users\Claudio\Documents\C# Projects\Vector con ceros\Vector con ceros\obj\Debug\Vector con ceros.exe
+C:\Users\Claudio\Documents\C# Projects\Vector con ceros\Vector con ceros\obj\Debug\Vector con ceros.pdb
